@@ -1,6 +1,5 @@
 # 🧬🧬🧬 The Motif Hunt
 ## A secret is hiding in the DNA...
----
 
 In this tutorial, we'll use deep learning to solve a real problem in biology: finding the secret pattern that makes a protein stick to DNA.
 
@@ -14,7 +13,6 @@ All we know is that the motif we're looking for is composed of exactly 12 nucleo
 
 That's the mystery we're solving today.
 
----
 
 | Step | What you'll do |
 |------|---------------|
